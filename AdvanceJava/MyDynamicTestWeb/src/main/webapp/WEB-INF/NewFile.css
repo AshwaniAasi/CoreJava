@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+.headling_design
+{
+	font-size: xx-large;
+}
+#paragraph_design
+{
+	background-color: gray;
+}
+
+h2
+{
+	background-color: fuchsia;
+	font: 200;
+}
+p
+{
+	font-style: italic;
+	font-size: xx-large;
+}
+.image
+{
+	background-image: url("image/aa.jpeg");
+	width: 350px; height: 350px;
+	float: right;
+	
+}
+	

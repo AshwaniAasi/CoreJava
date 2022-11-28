@@ -1,0 +1,94 @@
+@charset "ISO-8859-1";
+*
+{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;	
+}
+nav #nav
+{
+	width: 100px;
+	height: 60px;
+	background-color: #c0c0c0;
+	box-shadow: 0px 0px 10px 10px black;
+	padding: 0 100px;
+	line-height: 60px;
+	top: 0px;
+	left: 0px;
+	font-family: 'Abyssinica SIL', serif;
+	position: fixed;
+}
+.left-ul li
+{
+	list-style: none;
+	float: left;
+}
+.left-ul li a
+{
+	text-decoration: none;
+	font-size: 25px;
+}
+.left-ul li a :hover
+{
+	color: green;
+}
+.right-ul li
+{
+	list-style: none;
+	float: right;
+	display: inline;
+}
+.right-ul li a
+{
+	text-decoration: none;
+	color: black;
+	padding: 0 15px;
+	line-height: 60px;
+	display: block;
+}
+.right-ul li a:hover 
+{
+	background-color: white;
+	color: #025409
+}
+#banner
+{
+	width : 220vh;
+	height: 100vh;
+	
+	background-image: url("image/cc.jpg");
+	background-size: cover;
+	margin: auto;
+}
+.banner-text
+{
+	position: absolute;
+	top : 30%;
+	left: 10%;
+	font-family: monospace;
+	margin: auto;
+}
+.banner-text h1
+{
+	font-size: 50px;
+	text-transform: capitalize;
+	font-family: monospace;
+}
+.banner-btn
+{
+	margin-top: 20px;
+}
+
+.banner-text p
+{
+	margin: 10px 0px;
+}
+.btn
+{
+	color: white;
+	padding: 10px 30px;
+	border: none;
+	border-radius: 50px;
+	background-color: green;
+	cursor: pointer;
+}

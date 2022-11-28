@@ -1,0 +1,15 @@
+SDLC life Cycle :- (Software Development Life Cycle)
+	1. Planning
+	2. Requirement Analysis
+	3. Design
+	4. Development
+	5. Testing
+	6. Implementation
+	
+	-> Documentation :-
+		-> Modules
+			1. Admin
+			2. Employee
+			3. Customer
+		-> Databases & Tables
+			
