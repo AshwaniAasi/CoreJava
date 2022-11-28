@@ -23,7 +23,7 @@ import com.restbook.entity.Book;
 import com.restbook.service.BookSerivce;
 
 //@Controller
-@RestController
+
 public class BookController {
 	@Autowired
 	private BookSerivce bookSerivce;
