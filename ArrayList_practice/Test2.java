@@ -2,7 +2,7 @@ package ArrayList_practice;
 
 import java.util.ArrayList;
 
-import Array_Demo.Array_Demo;
+import _3_array.Array_Demo;
 
 public class Test2 
 {
